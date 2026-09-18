@@ -55,6 +55,15 @@ emoji: 👁️
 | `review-personas/` | `LICENSES/review-personas.LICENSE` |
 | `workflow-skills/` | `LICENSES/review-personas.LICENSE`（与 review-personas 同源） |
 
+## 配套技能
+
+本仓库是 **多智能体团队搭建（multi-agent-team）** 技能的角色资源库：
+`https://github.com/zhangruilin158/multi-agent-team`
+
+该技能用它来「按领域组建 ≥2 人的专家小组 → 小组讨论选方案 → 团队讨论定落地」。
+技能的 `references/统一角色池.md`（去重组队视图，335 角色）与 `references/agent-全量清单.md`
+（不去重讨论视图，608 条）即基于本仓库内容生成。
+
 ## 说明
 
 - 仅收录**角色定义内容**；各来源库的项目脚手架（CI、脚本、评测、文档、示例）未收录。
