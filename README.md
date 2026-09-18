@@ -1,6 +1,6 @@
 # Agent 角色库合集（Agent Role Libraries）
 
-收录 **4 个开源角色 / 人设库**的**角色定义内容**，共 **583 个角色**。
+收录 **4 个开源角色 / 人设库**的**角色定义内容**：**583 个角色** + **25 个工作流技能**。
 用于多智能体团队搭建：为每个领域提供可复用的专家人设，便于按领域组建 ≥2 人的专家小组。
 
 ## 目录结构
@@ -11,6 +11,7 @@ agent-role-libraries/
 ├── chinese-role-library/      # 中文角色库（278 个角色，中国本地化 + 公司/HR/法务/供应链等）
 ├── engineering-personas/      # 工程专家人设（21 个：架构/后端/安全/SRE/DevOps/根因分析/重构…）
 ├── review-personas/           # 评审专家人设（4 个：代码审查/安全审计/测试/Web 性能）
+├── workflow-skills/           # 工作流技能（25 个：需求→计划→构建→验证→评审→发布 全流程）
 └── LICENSES/                  # 各来源库的原始许可与版权声明（务必保留）
 ```
 
@@ -52,6 +53,7 @@ emoji: 👁️
 | `chinese-role-library/` | `LICENSES/chinese-role-library.LICENSE` |
 | `engineering-personas/` | `LICENSES/engineering-personas.LICENSE` |
 | `review-personas/` | `LICENSES/review-personas.LICENSE` |
+| `workflow-skills/` | `LICENSES/review-personas.LICENSE`（与 review-personas 同源） |
 
 ## 说明
 
